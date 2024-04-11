@@ -1,3 +1,17 @@
+# practice
+### 使い方
+nodejsのインストール  
+https://nodejs.org/en/download/current  
+  
+初期化
+```
+npm install
+```
+起動
+```
+npm run dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
